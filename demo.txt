@@ -2,3 +2,5 @@ This is demo class
 This is second demo Git
 Git is a source code managament tool
 There are many source cod management tools in the devops
+This is for demo purpose
+This is demo for undo git operations
